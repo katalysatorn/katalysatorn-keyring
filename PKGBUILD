@@ -3,7 +3,6 @@ pkgver=20250108
 pkgrel=1
 pkgdesc="katalysatorn keyring"
 arch=(any)
-url="https://abs.katalysatorn.xyz"
 license=('GPL-3.0-or-later')
 install=$pkgname.install
 source=("katalysatorn.gpg"
